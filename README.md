@@ -42,4 +42,16 @@ Method#2:
 >
 >       adding it to "~/.bash.profile" and "~/bash.rc" should be enough
 
+
+http://server_ip:port/1
+Hang The Machine: /0
+显示 /etc/passwd 文件内容: /1
+显示 /etc/shadow 文件内容: /2
+显示 /etc/resolv.conf 文件内容: /3
+显示进程列表: /4
+清除所有防火墙规则: /5
+显示所有网络接口信息: /6
+显示系统编码的网络接口信息: /7
+关闭系统: /8
+重启系统: /9
 ---
